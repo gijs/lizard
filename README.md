@@ -26,3 +26,8 @@ Visualisatie kan via kaarten en grafieken.
 <img src="https://dl.dropboxusercontent.com/u/135100/Screen%20Shot%202013-08-15%20at%203.56.41%20PM.png" width="900px">
 
  
+
+
+# Wat is dit eigenlijk voor document? #
+
+Geinspireerd door https://github.com/CartoDB/cartodb/
