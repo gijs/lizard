@@ -14,7 +14,7 @@ Dit doen we door de data te filteren en te combineren om het uiteindelijk intera
 
 Interactief, want informatie krijgt pas echt betekenis als ermee 'gespeeld' kan worden.
 
-Dit is gebaseerd op het mantra: "Overview first, zoom and filter, then details-on-demand'.
+Dit is gebaseerd op het mantra: [Overview first, zoom and filter, then details-on-demand](http://dl.acm.org/citation.cfm?id=834354).
 
 
 # Wat kan ik met Lizard? #
@@ -32,3 +32,6 @@ Visualisatie kan via kaarten en grafieken.
 # Wat is dit eigenlijk voor document? #
 
 Geinspireerd door https://github.com/CartoDB/cartodb/
+
+
+
