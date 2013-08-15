@@ -4,6 +4,8 @@ Lizard is een applicatie waarmee *water data* kan worden gevisualiseerd via het 
 
 We bieden Lizard aan als dienst, waar u of uw organisatie bij wijze van speken over vijf minuten toegang kunnen hebben.
 
+<img src="https://dl.dropboxusercontent.com/u/135100/Screen%20Shot%202013-08-15%20at%203.56.41%20PM.png" width="900px">
+
 
 # Waarom Lizard? #
 
@@ -23,7 +25,6 @@ Nadat het is opgeslagen kunt u de data visualiseren en deze visualisaties delen.
 
 Visualisatie kan via kaarten en grafieken.
 
-<img src="https://dl.dropboxusercontent.com/u/135100/Screen%20Shot%202013-08-15%20at%203.56.41%20PM.png" width="900px">
 
  
 
